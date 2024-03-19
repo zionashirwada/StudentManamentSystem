@@ -1,0 +1,25 @@
+D:\esoft\Skills International\bin\Debug\net8.0-windows\Skills International.exe
+D:\esoft\Skills International\bin\Debug\net8.0-windows\Skills International.dll
+D:\esoft\Skills International\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\esoft\Skills International\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\esoft\Skills International\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\esoft\Skills International\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\esoft\Skills International\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\esoft\Skills International\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\esoft\Skills International\obj\Debug\net8.0-windows\Skills International.csproj.AssemblyReference.cache
+D:\esoft\Skills International\obj\Debug\net8.0-windows\Skills_International.Login.resources
+D:\esoft\Skills International\obj\Debug\net8.0-windows\Skills_International.Registration.resources
+D:\esoft\Skills International\obj\Debug\net8.0-windows\Skills International.csproj.GenerateResource.cache
+D:\esoft\Skills International\obj\Debug\net8.0-windows\Skills International.GeneratedMSBuildEditorConfig.editorconfig
+D:\esoft\Skills International\obj\Debug\net8.0-windows\Skills International.AssemblyInfoInputs.cache
+D:\esoft\Skills International\obj\Debug\net8.0-windows\Skills International.AssemblyInfo.cs
+D:\esoft\Skills International\obj\Debug\net8.0-windows\Skills International.csproj.CoreCompileInputs.cache
+D:\esoft\Skills International\obj\Debug\net8.0-windows\Skills International.csproj.CopyComplete
+D:\esoft\Skills International\obj\Debug\net8.0-windows\Skills International.dll
+D:\esoft\Skills International\obj\Debug\net8.0-windows\refint\Skills International.dll
+D:\esoft\Skills International\obj\Debug\net8.0-windows\Skills International.pdb
+D:\esoft\Skills International\bin\Debug\net8.0-windows\Skills International.deps.json
+D:\esoft\Skills International\bin\Debug\net8.0-windows\Skills International.runtimeconfig.json
+D:\esoft\Skills International\bin\Debug\net8.0-windows\Skills International.pdb
+D:\esoft\Skills International\obj\Debug\net8.0-windows\Skills International.genruntimeconfig.cache
+D:\esoft\Skills International\obj\Debug\net8.0-windows\ref\Skills International.dll
